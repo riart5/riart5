@@ -1,12 +1,14 @@
-# 👋 ¡Hola! Soy Artur Ribot Tristante - Desarrollador Web en Formación
+# 👋 ¡Hola! Soy Artur Ribot Tristante - Desarrollador de Aplicaciones Web
 
 ## 🚀 Sobre Mí
-Soy un estudiante apasionado de desarrollo web, comprometido con aprender y crecer en el mundo del desarrollo de software. Mi objetivo es convertirme en un desarrollador web versátil y competente.
+Recién graduado en Desarrollo de Aplicaciones Web, comprometido con aprender y crecer en el mundo del desarrollo de software. Mi objetivo es convertirme en un desarrollador web versátil y competente.
 
 ## 🛠️ Tecnologías y Herramientas
 ### Lenguajes de Programación
 - HTML5
 - CSS3
+- PHP
+- BootStrap 5 
 - JavaScript
 - Python
 - Java
@@ -24,12 +26,12 @@ Actualmente estoy enfocado en:
 - Aprender las nuevas tencologias o frameworks
 
 ## 🌟 Mis Proyectos Destacados
-- Web de ropa: De momento no hay contenido pero pronto empezaré este proyecto para una marca de ropa.
-- Proyecto de final de grado: Web sobre un casino con sus juegos respectivos, desarrollada con mas compañeros. 
+- Proyecto de final de grado I: Web sobre un casino con sus juegos respectivos, desarrollada con mas compañeros.
+- Proyecto de final de grado II: Web sobre gestión de usuarios de un gimnasio para guardar entrenamientos y poder compararlos para ver el progreso. 
 
 ## 📫 Contáctame
 - LinkedIn: ribotartur@gmail.com
 - Email: ribotartur@gmail.com
 - Portfolio: [En desarrollo]...
 
-¡Estoy abierto a colaboraciones y oportunidades de aprendizaje! 💻🌐
+¡Siempre abierto a aprender y trabajar al máximo nivel! 💻🌐
